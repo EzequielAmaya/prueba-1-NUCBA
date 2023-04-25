@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+
+#selectorId {
+    color: rgb(226, 227, 241);
+    font-family: "Amatic SC";
+    font-size: 50px;
+    text-align: center;
+    
+}
+img {
+    margin: auto;
+    display: block;
+    border-radius: 10px;
+    }
+body{
+    background-image: url(https://images4.alphacoders.com/151/151174.jpg);
+    background-size: cover;
+}
+.lista-ordenada {
+    color: antiquewhite;
+    font-family: "Amatic SC";
+    font-size: 30px;
+    text-align: center;
+    list-style-type: none;
+    border-radius: 1rem;
+    background-color: rgba(119, 136, 153, 0.356);
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+.lista-ordenada0 {
+    background-color: rgb(64, 69, 71);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 10px 10px white;
+    list-style-type: none;
+    
+}
+.lista-ordenada1 {
+    border: 5px solid gray;
+    padding: 5px;
+    list-style-type: none;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.lista-ordenada2 {
+    border: 5px dashed white;
+    padding: 5px;
+    list-style-type: none;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.lista-ordenada3 {
+    border: 5px dotted darkseagreen;
+    padding: 5px;
+    list-style-type: none;
+    margin-bottom: 10px;
+    border-radius: 20px;
+
+}
+.lista-ordenada4 {
+    border: 5px double darkgreen;
+    padding: 5px;
+    list-style-type: none;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.parrafo {
+    color: antiquewhite;
+    font-family: "Amatic SC";
+    text-align: center;
+    font-size:50px;
+    font-weight: bold;
+    background-color: rgba(47, 79, 79, 0.473);
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 10px;
+}
+.formularios {
+    font-family: "Amatic SC";
+    font-size:x-large;
+    color:antiquewhite ;
+    text-align: center;
+}
+span{
+    background-color: darkslategrey;
+    border: 1px solid antiquewhite;
+    border-radius: 10px ;
+    padding: 5px;
+}
+h2{
+    margin-bottom: 10px;
+}
+input[type=text] {
+    background-color: rgb(64, 69, 71);
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px ;
+}
+input[type=number] {
+    background-color: rgb(64, 69, 71);
+    padding: 12px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border-radius: 10px ;
+}
+input[type=email] {
+    background-color: rgb(64, 69, 71);
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px ;
+}
+input[type=password] {
+    background-color: rgb(64, 69, 71);
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px ;
+}
+input[type=button] {
+    background-color: darkslategrey;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+
